@@ -1,7 +1,0 @@
-my file 
-
-describe('test suite'),=>({
-it('tc-01'),()=>({
-})
-
-})
